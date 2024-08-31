@@ -3,7 +3,7 @@
 Caso de Estudio: Diseño de la Base de Datos para la Contabilidad de una Empresa de Consultoría de Negocios
 
 ## Introducción
-Este caso de estudio detalla el diseño de una base de datos para una empresa de consultoría de negocios. La base de datos tiene como objetivo gestionar la contabilidad de la empresa, rastreando proyectos, clientes, facturas, y requerimientos, entre otros elementos clave. El sistema está diseñado para optimizar la gestión de la información financiera y administrativa, asegurando la precisión y disponibilidad de los datos para la toma de decisiones.
+Este caso de estudio detalla el diseño de una base de datos para una empresa de consultoría de negocios. La base de datos tiene como objetivo gestionar la contabilidad de la empresa, rastreando proyectos, **clientes**, facturas, y requerimientos, entre otros elementos clave. El sistema está diseñado para optimizar la gestión de la información financiera y administrativa, asegurando la precisión y disponibilidad de los datos para la toma de decisiones.
 
 ## Requisitos del Sistema
 
@@ -14,6 +14,10 @@ La base de datos debe cumplir con los siguientes requisitos:
 * Gestión de Requerimientos: Los requerimientos están ligados a proyectos y deben ser rastreados para asegurar su cumplimiento.
 * Gestión de Facturación: La base de datos debe rastrear las facturas emitidas a los clientes por los servicios prestados, incluyendo detalles como el monto, la fecha de emisión, y el estado de la factura.
 * Otras Consideraciones: La base de datos debe ser escalable, segura y optimizada para consultas rápidas y precisas.
+
+## Diagrama Entidad Relación
+
+![Diagrama E/R](./diagramas/ModeloEntidadRelación.png)
 
 ## Modelo de Datos Propuesto
 
