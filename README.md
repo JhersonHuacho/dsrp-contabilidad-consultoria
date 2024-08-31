@@ -104,11 +104,6 @@ Esta tabla almacena la información de los pagos realizados por los clientes.
 ## Diagrama Entidad-Relación (ERD)
 Un diagrama ERD representaría las tablas mencionadas y sus relaciones. Las entidades principales (Clientes, Proyectos, Requerimientos, Facturas, Pagos) están interrelacionadas para garantizar la integridad y consistencia de los datos.
 
-## Consideraciones Adicionales
-* Índices y Optimización: Se deben crear índices en campos clave como id_cliente, id_proyecto, y id_factura para optimizar las consultas.
-* Integridad Referencial: Se debe implementar la integridad referencial mediante claves foráneas para garantizar la consistencia de las relaciones entre tablas.
-* Seguridad: La base de datos debe incluir medidas de seguridad, como el control de acceso basado en roles, para proteger la información sensible de la empresa y sus clientes.
-
 ## Conclusión
 El diseño propuesto proporciona una base sólida para gestionar la contabilidad y otros aspectos administrativos de una empresa de consultoría de negocios. Este modelo relacional permite una gestión eficiente y escalable, con un enfoque en la integridad y precisión de los datos, fundamentales para la toma de decisiones en un entorno empresarial dinámico.
 
