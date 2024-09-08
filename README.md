@@ -19,6 +19,10 @@ La base de datos debe cumplir con los siguientes requisitos:
 
 ![Diagrama E/R](./diagramas/ModeloEntidadRelación.png)
 
+## Modelo Lógico
+
+![Diagrama E/R](./diagramas/ModeloLogico.png)
+
 ## Modelo de Datos Propuesto
 
 A continuación, se detalla el modelo de datos propuesto, incluyendo las tablas principales y sus campos.
